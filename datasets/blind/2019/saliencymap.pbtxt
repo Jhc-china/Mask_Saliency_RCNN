@@ -1,0 +1,32 @@
+item {
+    name: "N"
+    id: 1
+}
+item {
+    name: "S"
+    id: 2
+}
+item {
+    name: "L"
+    id: 3
+}
+item {
+    name: "C"
+    id: 4
+}
+item {
+    name: "LS"
+    id: 5
+}
+item {
+    name: "CS"
+    id: 6
+}
+item {
+    name: "CL"
+    id: 7
+}
+item {
+    name: "CLS"
+    id: 8
+}
