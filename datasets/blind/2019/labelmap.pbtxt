@@ -1,0 +1,88 @@
+item {
+    name: "person"
+    id: 1
+}
+item {
+    name: "stop sign"
+    id: 2
+}
+item {
+    name: "backpack"
+    id: 3
+}
+item {
+    name: "umbrella"
+    id: 4
+}
+item {
+    name: "handbag"
+    id: 5
+}
+item {
+    name: "tennis racket"
+    id: 6
+}
+item {
+    name: "cup"
+    id: 7
+}
+item {
+    name: "fork"
+    id: 8
+}
+item {
+    name: "spoon"
+    id: 9
+}
+item {
+    name: "banana"
+    id: 10
+}
+item {
+    name: "apple"
+    id: 11
+}
+item {
+    name: "orange"
+    id: 12
+}
+item {
+    name: "chair"
+    id: 13
+}
+item {
+    name: "laptop"
+    id: 14
+}
+item {
+    name: "mouse"
+    id: 15
+}
+item {
+    name: "microwave"
+    id: 16
+}
+item {
+    name: "refrigerator"
+    id: 17
+}
+item {
+    name: "clock"
+    id: 18
+}
+item {
+    name: "vase"
+    id: 19
+}
+item {
+    name: "scissors"
+    id: 20
+}
+item {
+    name: "hair drier"
+    id: 21
+}
+item {
+    name: "toothbrush"
+    id: 22
+}
